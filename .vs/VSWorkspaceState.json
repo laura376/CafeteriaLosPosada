@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\core",
+    "\\core\\broker",
+    "\\core\\broker\\Geografia",
+    "\\core\\domain",
+    "\\core\\domain\\clientes",
+    "\\core\\domain\\empresa",
+    "\\core\\domain\\geografia",
+    "\\core\\domain\\productos",
+    "\\core\\domain\\transaccional"
+  ],
+  "SelectedNode": "\\application\\WebApiGestionCafeteriaLosPosada.py",
+  "PreviewInSolutionExplorer": false
+}
